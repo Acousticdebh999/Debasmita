@@ -1,2 +1,2 @@
 # Debasmita  
-My first ewpository created a blockchain workshop by UEM jaipur ACM student jaipur.
+My first repository created a blockchain workshop by UEM jaipur ACM student jaipur.
